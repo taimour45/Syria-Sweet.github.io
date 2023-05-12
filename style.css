@@ -153,7 +153,6 @@ section{
 }
 .product-info{
     padding: 1em;
-
 }
 .product-one{
     font-size: 0.8em;
@@ -188,6 +187,10 @@ section{
 }
 .footer .social-icon a{
     font-size: 1.5em;
+}
+.map{
+    text-decoration: none;
+    color: #f5e6bd;
 }
 @media (max-width:1023px){
     header{
